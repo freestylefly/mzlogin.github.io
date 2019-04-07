@@ -1,8 +1,13 @@
-ayout: post
+---
+layout: post
 title: Java中的IO流和反射
 categories: Java
-description:  Java中的IO流和反射
-keywords: Java,
+description: Java中的IO流和反射
+keywords: Java
+
+---
+
+本系列文章在 <https://github.com/freestylefly/javaStudy> 持(jing)续(chang)更(duan)新(geng)中，欢迎有兴趣的童鞋们关注。
 
 ﻿## 一、定义
 
