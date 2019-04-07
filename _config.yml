@@ -5,9 +5,9 @@ baseurl:
 url: https://freestylefly.github.io/
 date_format: "ordinal"
 title: 苍何
-subtitle: "打码改变人生"
+subtitle: "成为想成为的人"
 description: "江彬的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+keywords: 码志, Bin Jiang, freestylefly, mazhuang
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Bin Jiang
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: freestylefly
+location: Shenzhen, China
+email: 2689458656@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -98,14 +98,14 @@ gitment:
     owner: mzlogin
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 2fc425de21683f891dee
+        client_secret: bf800c0c93f5aa81c8380b9dac222143d29b6927
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: freestylefly
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: 2fc425de21683f891dee
+    clientSecret: bf800c0c93f5aa81c8380b9dac222143d29b6927
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
