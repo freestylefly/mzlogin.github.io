@@ -95,7 +95,7 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: freestylefly
     repo: blog-comments
     oauth:
         client_id: 2fc425de21683f891dee
