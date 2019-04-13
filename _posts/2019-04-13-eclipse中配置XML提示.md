@@ -1,12 +1,12 @@
 ﻿---
 layout: post
 title: eclipse 中配置XML提示
-categories: JavaEE框架
-description: eclipse中配置XML提示 
-keywords: java, Hibernate
+categories: eclipse
+description: eeclipse 中配置XML提示
+keywords: JavaEE,eclipse,XML
 ---
 
-本系列文章在 <https://github.com/freestylefly/javaStudy> 持(jing)续(chang)更(duan)新(geng)中，欢迎有兴趣的童鞋们关注。
+本系列文章在 <https://github.com/freestylefly/javaStudy> 持(huan)续(ying)更(jia)新(ru)中，欢迎有兴趣的童鞋们关注。
 
 ## 一、问题原油
 当我们在eclipse中编写XML时，需要出来提示信息（前提是没有联网），那么就需要进行用户自定义配置相关信息、
