@@ -77,7 +77,7 @@ http://www.gulixueyuan.com/ 谷粒学院
 
 整合maven进来；
 
-![idea设置](images/搜狗截图20180129151045.png)
+![idea设置](/_posts/images/搜狗截图20180129151045.png)
 
 
 
