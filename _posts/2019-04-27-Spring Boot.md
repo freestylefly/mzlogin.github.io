@@ -81,7 +81,7 @@ http://www.gulixueyuan.com/ 谷粒学院
 
 
 
-![images/](images/搜狗截图20180129151112.png)
+![images](/images/posts/JavaEE框架/搜狗截图20180129151045.png)
 
 ## 4、Spring Boot HelloWorld
 
